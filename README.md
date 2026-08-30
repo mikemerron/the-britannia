@@ -14,7 +14,7 @@ No build step: `index.html` plus the `images/` folder. Edit the HTML directly.
 
 | Type  | Name | Value |
 | ----- | ---- | ----- |
-| CNAME | www  | <your-github-username>.github.io |
+| CNAME | www  | mikemerron.github.io |
 | A     | @    | 185.199.108.153 |
 | A     | @    | 185.199.109.153 |
 | A     | @    | 185.199.110.153 |
